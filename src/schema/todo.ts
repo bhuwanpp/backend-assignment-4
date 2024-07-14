@@ -10,8 +10,7 @@ export const getCreateTaskSchema = Joi.object({
 });
 
 export const paramSchema = Joi.object({
-  id: Joi.number().required().messages({
-    "number.base": "ID must be a number",
+  id: Joi.required().messages({
     "any.required": "ID is required",
   }),
 }).options({
