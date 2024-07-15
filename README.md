@@ -1,4 +1,4 @@
-# Backend Assignment-3
+# Backend Assignment-4
 
 # Introduction
 
@@ -52,7 +52,7 @@ Once you have pulled the Docker image, you can run it using the following comman
 
 ### Accessing the API for authentication
 
-You can now access the Todo app API by opening a web browser or using a tool like curl and navigating to http://localhost:3000/.
+You can now access the Todo app API by opening a web browser or using a tool like curl and navigating to <http://localhost:3000/>.
 
 Example API Endpoints:
 
@@ -87,7 +87,7 @@ Example API Endpoints:
 
 ### Accessing the API for todo tasks
 
-You can now access the Todo app API by opening a web browser or using a tool like curl and navigating to http://localhost:3000/.
+You can now access the Todo app API by opening a web browser or using a tool like curl and navigating to <http://localhost:3000/>.
 
 Example API Endpoints:
 
